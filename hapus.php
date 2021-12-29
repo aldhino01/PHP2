@@ -11,7 +11,7 @@
 
 
 <?php
-    include './koneksi.php';
+    include './proses/koneksi.php';
     
     $id_buku = $_GET['id_buku'];
 
